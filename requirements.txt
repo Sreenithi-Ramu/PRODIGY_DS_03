@@ -1,0 +1,18 @@
+numpy==1.21.2
+pandas==1.5.0
+scikit-learn==1.0.2
+matplotlib==3.4.3
+seaborn==0.11.2
+joblib==1.1.0
+
+
+
+#Summary of Modules Used in the Project:
+-pandas for data loading and manipulation.
+-numpy for numerical operations.
+-scikit-learn for building and evaluating the decision tree classifier.
+-matplotlib and seaborn for data visualization.
+-joblib for saving and loading the trained model.
+
+
+GOOGLE COLAB was used as environment.
